@@ -1,13 +1,11 @@
 <h1 align="center">CSC3220 Financial Inclusion in Africa</h1>
 <p>
 
-
-<% } -%>
+###  [Project Description]
 </p>
-<% if (projectDescription) { -%>
+ 
+ `We used ------ dataset to analyze the financial system in multiple african countries. Our goal is to see how many citizens in each country have bank accounts. ` 
 
-> <%= projectDescription %>
-<% } -%>
 <% if (projectHomepage) { -%>
 
 ###  [Homepage](<%= https://github.com/Dialovos/CSC3220-financial-inclusion-in-africa %>)
@@ -51,7 +49,6 @@
 
 
 
-##  Contributing
+##  Contributors
 
-Contributiors,issues  `Ellie Williams, Zoey Gidley, Nolan Hiliva, Hoang Le, Nevaeh Zumbrun` : '' %>
-<% } -%>
+  `Ellie Williams, Zoey Gidley, Nolan Hiliva, Hoang Le, Nevaeh Zumbrun` 
